@@ -200,9 +200,3 @@ npm run type-check # TypeScript check without emitting
 MIT — free to use for personal and commercial projects.
 
 ---
-
-<div align="center">
-
-Built with ♥ using React + Recharts + Syne
-
-</div>
